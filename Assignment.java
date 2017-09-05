@@ -1,9 +1,9 @@
 
-public class Assignment {
+public class First_Assignment {
 	public static void main(String[] args) {
-		System.out.println("2012314037"); // ÇĞ¹ø
-		System.out.println("ÃÖÁöÈÆ"); // ÀÌ¸§
-		System.out.println("010 7499 2150"); // ¿¬¶ôÃ³
-		System.out.println("jihoonx"); // ±êÇãºê ÁÖ¼Ò
+		System.out.println("2012314037"); // í•™ë²ˆ
+		System.out.println("ìµœì§€í›ˆ"); // ì´ë¦„
+		System.out.println("010 7499 2150"); // ì—°ë½ì²˜
+		System.out.println("jihoonx"); // ê¹ƒí—ˆë¸Œ ì£¼ì†Œ
 	}
 }
